@@ -5,27 +5,32 @@ I'm an easy Typer library. I pretend to write on the screen. However, it is only
 ## Code Example
 
 This is where I place, letter by letter, the words. There is no limit to the amount of words.
+```javascript
 typers = {};
 elements = document.getElementsByClassName("typer");
 for (var i = 0, e; e = elements[i++];) {
   typers[e.id] = new Typer(e);
 }
+```
 
 ## Motivation
 
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+I've been made by Daan van Dijk for being part of his portfolio site. Also this project is for a class he's been following. Development.
 
 ## Installation
 
-Provide code examples and explanations of how to get the project.
+``` HTML
+<p>
+   Wie is baas? <span class="typer" id="p" data-words="daan,is,baas"></span>
+</p>
+```
+This is where you put your words. The amount of words is unlimited, as far as I know. 
+But this is not all.
+Always add this to the bottom of your file, just above the </body> tag
+``` HTML
+<script src="typer.js"></script>
+```
 
-## API Reference
-
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
-
-## Tests
-
-Describe and show how to run the tests with code examples.
 
 ## Contributors
 
