@@ -24,18 +24,10 @@ I've been made by Daan van Dijk for being part of his portfolio site. Also this 
    Wie is baas? <span class="typer" id="p" data-words="daan,is,baas"></span>
 </p>
 ```
-This is where you put your words. The amount of words is unlimited, as far as I know. 
+This is where you put your words. The amount of words is unlimited, as far as I know. Add your own words to the "data-words" part. 
 But this is not all.
 Always add this to the bottom of your file, just above the </body> tag
 ``` HTML
 <script src="typer.js"></script>
 ```
 
-
-## Contributors
-
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
-
-## License
-
-A short snippet describing the license (MIT, Apache, etc.)
