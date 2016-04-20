@@ -1,5 +1,5 @@
 # typer-easy
-I'm an easy Typer library. I pretend to write on the screen. However, it is only fake. I'm programmed to do so.
+I'm an easy Typer library. I pretend to write on the screen. However, it is only fake. I'm programmed by Daan van Dijk to do so.
 
 
 ## Code Example
