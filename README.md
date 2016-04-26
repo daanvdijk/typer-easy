@@ -31,3 +31,9 @@ Always add this to the bottom of your file, just above the </body> tag
 <script src="typer.js"></script>
 ```
 
+
+## DEMO
+
+[Op deze pagina vind je een demo van mij.](http://athena.fhict.nl/users/i325112/DEV/demo-easy-typer/ "Demopagina")
+
+
